@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "otitis"
+  },
+  {
+    "nombre": "Firulais",
+    "edad": "5 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "gastritis"
+  }
+]
